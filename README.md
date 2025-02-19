@@ -1,8 +1,8 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alexanderguentert/binder-test/HEAD?filepath=geo__gdp__inventar_der_schuetzenswerten_gaerten_und_anlagen_von_kommunaler_bedeutung_der_stadt__61681bfd-373e-49bd-b6b0-7c449e512cb4.ipynb)
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alexanderguentert/binder-test/main?urlpath=rstudio)
-Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderguentert/binder-test/main?urlpath=lab)
+- Single Notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alexanderguentert/binder-test/HEAD?filepath=geo__gdp__inventar_der_schuetzenswerten_gaerten_und_anlagen_von_kommunaler_bedeutung_der_stadt__61681bfd-373e-49bd-b6b0-7c449e512cb4.ipynb)
+- RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alexanderguentert/binder-test/main?urlpath=rstudio)
+- Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderguentert/binder-test/main?urlpath=lab)
 
 A Binder-compatible repo with an `environment.yml` file.
 
