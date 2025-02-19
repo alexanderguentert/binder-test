@@ -9,3 +9,7 @@ dependencies:
   - pandas
   - pyarrow
   - tqdm
+  - r-base
+  - r-tidyverse
+  - r-arrow
+  - r-skimr
